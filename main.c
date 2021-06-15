@@ -4,5 +4,5 @@ int main()
 {
 	int a = 0;
 	printf("Bella Stronzi!\n");
-	return -1;
+	return -2;
 }
