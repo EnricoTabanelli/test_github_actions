@@ -3,6 +3,6 @@
 int main()
 {
 	int a = 0;
-	fprintf(stderr,"Bella Stronzi!\n");
-	return a;
+	printf("Bella Stronzi!\n");
+	return -1;
 }
